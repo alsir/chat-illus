@@ -199,7 +199,7 @@ img{
 }
    .mobile{
    	width: 43%;
-   	height: 94%;
+   	height: auto;
    	margin-left: -10%;
    	margin-top: 5%;
    	padding: 1.5%;
